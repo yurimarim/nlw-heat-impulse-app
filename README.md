@@ -16,7 +16,7 @@
 
 **DoWhile2021 -> Front-end App (React Native).** trata-se de um projeto realizado durante um evento da Rocketseat - Next Level Week Heat: Trilha Impulse 🚀🔥
 
-## Print
+## Projeto
 
 <p align="center">
    <img src="./.github/dowhileapp.png" alt="dowhile21" width="850"/>
