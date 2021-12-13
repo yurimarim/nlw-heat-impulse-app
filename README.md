@@ -14,7 +14,7 @@
 
 ## Sobre
 
-**DoWhile2021 -> Front-end App (React Native).** trata-se de um projeto realizado durante um evento da Rocketseat - Next Level Week Heat: Trilha Impulse 🚀🔥
+**DoWhile2021 -> Front-end App [React Native].** trata-se de um projeto realizado durante um evento da Rocketseat - Next Level Week Heat: Trilha Impulse 🚀🔥
 
 ## Projeto
 
